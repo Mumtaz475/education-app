@@ -8,4 +8,5 @@ export default defineConfig({
   },
    base: '/education-app/',
   plugins: [react()],
+  
 })
